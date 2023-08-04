@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lekan21
 - 👀 I’m interested in ... website development and application development
 - 🌱 I’m currently learning ... c#, python, java, javascript
-- 💞️ I’m looking to collaborate on ... all available programming languages
+- 💞️ I’m looking to collaborate on ... all available programming languages and relating languages in my field of coding
 - 📫 How to reach me ... +2347066345823, akinolayusuf909@gmail.com
 
 <!---
